@@ -21,9 +21,7 @@ A beautiful and minimalist music player application built with Flutter, featurin
 - [Usage](#-usage)
 - [Configuration](#-configuration)
 - [Contributing](#-contributing)
-- [Troubleshooting](#-troubleshooting)
 - [License](#-license)
-- [Contact](#-contact)
 
 ---
 
